@@ -2310,6 +2310,10 @@
         ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
         "coverImageUrl": "https://i.postimg.cc/P5H0TsWH/Picsart-26-05-04-16-46-38-390.jpg",
         "catalogSources": [
           {
@@ -2319,14 +2323,15 @@
             "catalogId": "mdblist.158520"
           }
         ],
-        "focusGifEnabled": false
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
       },
       {
         "id": "folder-6cf0b916",
         "title": "Primavera",
         "sources": [
           {
-            "type": "series",
+            "type": "Séries",
             "genre": "None",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -2335,23 +2340,28 @@
         ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
         "coverImageUrl": "https://i.postimg.cc/L5sR2JGC/Picsart-26-05-04-17-46-51-895.jpg",
         "catalogSources": [
           {
-            "type": "series",
+            "type": "Séries",
             "genre": "None",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.139688"
           }
         ],
-        "focusGifEnabled": false
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
       },
       {
         "id": "folder-fc54805c",
         "title": "Verão",
         "sources": [
           {
-            "type": "series",
+            "type": "Séries",
             "genre": "None",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -2360,23 +2370,28 @@
         ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
         "coverImageUrl": "https://i.postimg.cc/tChDpBNR/Picsart-26-05-04-17-40-11-488.jpg",
         "catalogSources": [
           {
-            "type": "series",
+            "type": "Séries",
             "genre": "None",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.158518"
           }
         ],
-        "focusGifEnabled": false
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
       },
       {
         "id": "folder-72d8cde6",
         "title": "Outono",
         "sources": [
           {
-            "type": "series",
+            "type": "Séries",
             "genre": "None",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -2385,21 +2400,27 @@
         ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
         "coverImageUrl": "https://i.postimg.cc/Dzgwh38z/Picsart-26-05-04-17-58-42-566.jpg",
         "catalogSources": [
           {
-            "type": "series",
+            "type": "Séries",
             "genre": "None",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.158519"
           }
         ],
-        "focusGifEnabled": false
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
       }
     ],
     "pinToTop": false,
     "viewMode": "TABBED_GRID",
     "showAllTab": false,
+    "backdropImageUrl": "",
     "focusGlowEnabled": false
   },
   {
