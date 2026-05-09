@@ -1,0 +1,2844 @@
+[
+  {
+    "id": "collection-ea08bf63",
+    "title": "Streaming",
+    "folders": [
+      {
+        "id": "folder-34f972bb",
+        "title": "Netflix",
+        "sources": [
+          {
+            "type": "Filmes",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.3093"
+          },
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.3082"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://i.imgur.com/ergXOwu.png",
+        "catalogSources": [
+          {
+            "type": "Filmes",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.3093"
+          },
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.3082"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-c21f3544",
+        "title": "Prime Video",
+        "sources": [
+          {
+            "type": "Filmes",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.3094"
+          },
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.3088"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://i.imgur.com/47teat6.png",
+        "catalogSources": [
+          {
+            "type": "Filmes",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.3094"
+          },
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.3088"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-f4f198c8",
+        "title": "Disney+",
+        "sources": [
+          {
+            "type": "Filmes",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.3095"
+          },
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.3090"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/1b98adc2-9bf5-4d36-84dc-3dac7d2d76e7.png",
+        "catalogSources": [
+          {
+            "type": "Filmes",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.3095"
+          },
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.3090"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-a340215f",
+        "title": "HBO",
+        "sources": [
+          {
+            "type": "Filmes",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.137619"
+          },
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.5975"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/533dccdd-1f26-4e28-bcbf-5168891582d2.png",
+        "catalogSources": [
+          {
+            "type": "Filmes",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.137619"
+          },
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.5975"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-1805cb8f",
+        "title": "Paramount+",
+        "sources": [
+          {
+            "type": "Filmes",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.88330"
+          },
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.32020"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/b0417e1f-ec51-47ea-a819-e7d66fb46f7b.jpg",
+        "catalogSources": [
+          {
+            "type": "Filmes",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.88330"
+          },
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.32020"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-8dc60fcc",
+        "title": "Apple TV+",
+        "sources": [
+          {
+            "type": "Filmes",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.13935"
+          },
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.7995"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://i.imgur.com/rDElssw.png",
+        "catalogSources": [
+          {
+            "type": "Filmes",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.13935"
+          },
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.7995"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": ""
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "backdropImageUrl": "https://images.squarespace-cdn.com/content/v1/51b3dc8ee4b051b96ceb10de/151495fa-017a-433e-b22c-cd5284bf07de/streaming_wars.jpg",
+    "focusGlowEnabled": false
+  },
+  {
+    "id": "collection-2c96e14d",
+    "title": "Diversos 🔍✨",
+    "folders": [
+      {
+        "id": "folder-2df7a75c",
+        "title": "Marvel",
+        "sources": [
+          {
+            "type": "Filmes",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.3022"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://wallpaperaccess.com/full/342019.jpg",
+        "catalogSources": [
+          {
+            "type": "Filmes",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.3022"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-459072ff",
+        "title": "DC Universe",
+        "sources": [
+          {
+            "type": "Filmes",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.3021"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/7691cb6b-b8ad-40e2-a1a1-8cc0b82f2c21.jpeg",
+        "catalogSources": [
+          {
+            "type": "Filmes",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.3021"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-b4961e85",
+        "title": "Pixar",
+        "sources": [
+          {
+            "type": "Filmes",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.2636"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://i.imgur.com/qX7LBmF.png",
+        "catalogSources": [
+          {
+            "type": "Filmes",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.2636"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-baa3580a",
+        "title": "Dreamworks",
+        "sources": [
+          {
+            "type": "Filmes",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.12833"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/882cf7a8-9aa6-4673-81c1-d3ed7a859e95.jpg",
+        "catalogSources": [
+          {
+            "type": "Filmes",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.12833"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-7260e95a",
+        "title": "Harry Potter",
+        "sources": [
+          {
+            "type": "All",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.159296"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/f37e8c4d-a333-47ec-92c3-4d258bc346b6.jpg",
+        "catalogSources": [
+          {
+            "type": "All",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159296"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-f988fb07",
+        "title": "Star Wars",
+        "sources": [
+          {
+            "type": "All",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.155432"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/9f047cc1-6d04-4c86-8327-3023925c9928.jpg",
+        "catalogSources": [
+          {
+            "type": "All",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.155432"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "backdropImageUrl": "https://wallpaperaccess.com/full/342019.jpg",
+    "focusGlowEnabled": false
+  },
+  {
+    "id": "collection-7e7b47fa",
+    "title": "Gêneros",
+    "folders": [
+      {
+        "id": "folder-55de34f9",
+        "title": "Terror",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.7997"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/wuac0bW.png",
+        "coverImageUrl": "https://i.imgur.com/mOIyUxJ.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.7997"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.imgur.com/41Zb8GX.jpeg"
+      },
+      {
+        "id": "folder-9623a6ff",
+        "title": "Suspense",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.7999"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/VXqqNNJ.png",
+        "coverImageUrl": "https://i.imgur.com/1sYQ94Z.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.7999"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.imgur.com/nj1ahB5.jpeg"
+      },
+      {
+        "id": "folder-01f40def",
+        "title": "Ação e aventura",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.7996"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/OhZluSX.png",
+        "coverImageUrl": "https://i.imgur.com/KgdWIui.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.7996"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.imgur.com/oLnX4YK.jpeg"
+      },
+      {
+        "id": "folder-e7d9ea37",
+        "title": "Crime",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.10619"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/oCltPU7.png",
+        "coverImageUrl": "https://i.imgur.com/sLzIMY2.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.10619"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.imgur.com/NPUuuJQ.jpeg"
+      },
+      {
+        "id": "folder-035cebee",
+        "title": "Ficção científica",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.7998"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/1IIgeu4.png",
+        "coverImageUrl": "https://i.imgur.com/dJXUNYy.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.7998"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.imgur.com/DtCk4HF.jpeg"
+      },
+      {
+        "id": "folder-4114918d",
+        "title": "Guerra",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.59843"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/P5aLFJv.png",
+        "coverImageUrl": "https://i.imgur.com/vVb2Iij.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.59843"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.imgur.com/jsmuHhw.jpeg"
+      },
+      {
+        "id": "folder-8f0f9536",
+        "title": "Desastre e distopia",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.149757"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/pqmv2RR.png",
+        "coverImageUrl": "https://i.imgur.com/w1btWse.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.149757"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.imgur.com/rWoKYuU.jpeg"
+      },
+      {
+        "id": "folder-0d3aa008",
+        "title": "Drama",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.3105"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/MYoVSyt.png",
+        "coverImageUrl": "https://i.imgur.com/OSnqTsJ.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.3105"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.imgur.com/qcorI9k.jpeg"
+      },
+      {
+        "id": "folder-3271b37b",
+        "title": "Romance",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.128262"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/qzkUItX.png",
+        "coverImageUrl": "https://i.imgur.com/3AgmTC2.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128262"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.imgur.com/OtR5SXD.jpeg"
+      },
+      {
+        "id": "folder-4cfc2348",
+        "title": "História",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.6638"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/ESyS262.png",
+        "coverImageUrl": "https://i.imgur.com/Yh49RXl.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.6638"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.imgur.com/2n6qYkn.jpeg"
+      },
+      {
+        "id": "folder-99454e9e",
+        "title": "Comédia",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.2195"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/NfgDkmM.png",
+        "coverImageUrl": "https://i.imgur.com/fvpTVub.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.2195"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.imgur.com/ZXAr7Eq.jpeg"
+      },
+      {
+        "id": "folder-a7c58c34",
+        "title": "Super-heróis",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.2413"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/RJi2wbx.png",
+        "coverImageUrl": "https://i.imgur.com/OO0RKGj.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.2413"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.imgur.com/9NHwWoQ.jpeg"
+      },
+      {
+        "id": "folder-96cdc773",
+        "title": "Animação",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.121922"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/yjdXmfu.png",
+        "coverImageUrl": "https://i.imgur.com/cW13du7.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.121922"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.imgur.com/h6gZ13n.jpeg"
+      },
+      {
+        "id": "folder-a0101007",
+        "title": "Festividades",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.4526"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/IKWhR6U.png",
+        "coverImageUrl": "https://i.imgur.com/7kqNnz9.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.4526"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.imgur.com/xxAT8vV.jpeg"
+      },
+      {
+        "id": "folder-a00f1ff6",
+        "title": "Faroeste",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.123231"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/l9jXxB3.png",
+        "coverImageUrl": "https://i.imgur.com/KKlMdAt.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.123231"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.imgur.com/4RzkEmi.jpeg"
+      },
+      {
+        "id": "folder-2d9efda3",
+        "title": "Quem foi?",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.83280"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/7aCnumf.png",
+        "coverImageUrl": "https://i.imgur.com/9XRtFee.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.83280"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.imgur.com/DB5ivG7.jpeg"
+      },
+      {
+        "id": "folder-8d3c10cb",
+        "title": "Documentários",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.128027"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/b84kfHo.png",
+        "coverImageUrl": "https://i.imgur.com/PFDL48r.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128027"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.imgur.com/FkN8Vn2.jpeg"
+      },
+      {
+        "id": "folder-4a0d3aee",
+        "title": "Plot-twists",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.3892"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/7ZgLOYZ.png",
+        "coverImageUrl": "https://i.imgur.com/wt2AHBK.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.3892"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.imgur.com/2YD3h2h.jpeg"
+      },
+      {
+        "id": "folder-d99c5ca3",
+        "title": "Clássicos",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.8052"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/ovWDfvi.png",
+        "coverImageUrl": "https://i.imgur.com/MJCJLXt.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.8052"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.imgur.com/cSLkt0E.jpeg"
+      },
+      {
+        "id": "folder-36f2db9b",
+        "title": "Coreanos e japoneses",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.5964"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/yeke3eH.png",
+        "coverImageUrl": "https://i.imgur.com/RSzSC75.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.5964"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.imgur.com/s8gted8.jpeg"
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "backdropImageUrl": "https://nuvioapp.space/uploads/covers/cd52bdf4-c767-4822-b6a3-2d6f873d5e46.jpg",
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-0dd970c7",
+    "title": "Listas",
+    "folders": [
+      {
+        "id": "folder-55118392",
+        "title": "Visualmente encantadores",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "letterboxd.TQjKM"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://i.imgur.com/wskA1VU.png",
+        "coverImageUrl": "https://i.imgur.com/mdsYDZ0.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.TQjKM"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.imgur.com/4vpWMpd.jpeg"
+      },
+      {
+        "id": "folder-0969f0d9",
+        "title": "Oscar de melhor filme (indicados)",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.149758"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://i.imgur.com/BnkDE3i.png",
+        "coverImageUrl": "https://i.imgur.com/YpkaBob.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.149758"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.imgur.com/LN3zc4O.jpeg"
+      },
+      {
+        "id": "folder-a4e2a50d",
+        "title": "Premiados",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.149765"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://i.imgur.com/gyyvlJp.png",
+        "coverImageUrl": "https://i.imgur.com/zxyugLV.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.149765"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.imgur.com/rY0ReBH.jpeg"
+      },
+      {
+        "id": "folder-e6483877",
+        "title": "Filmes premiados em Cannes",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.89288"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://i.imgur.com/G6SrBFL.png",
+        "coverImageUrl": "https://i.imgur.com/m29eZhA.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.89288"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.imgur.com/6rDrsrA.jpeg"
+      },
+      {
+        "id": "folder-7621f425",
+        "title": "IMDb top 250",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.57005"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://i.imgur.com/bjCwuwY.png",
+        "coverImageUrl": "https://i.imgur.com/Vtw09hj.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.57005"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.imgur.com/WGnTE2U.jpeg"
+      },
+      {
+        "id": "folder-4921d899",
+        "title": "Filmes confortáveis",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.131935"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://i.imgur.com/XHWw0A7.png",
+        "coverImageUrl": "https://i.imgur.com/r4wsXLZ.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.131935"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.imgur.com/AqBeHJj.jpeg"
+      },
+      {
+        "id": "folder-7ad2fc5d",
+        "title": "Blumhouse",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.96197"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://i.imgur.com/ix1C7Tv.png",
+        "coverImageUrl": "https://i.imgur.com/qj22zsw.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.96197"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.imgur.com/l1vDYv8.jpeg"
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "backdropImageUrl": "https://i.pinimg.com/originals/c0/e7/4c/c0e74c1e2e69e6cd6218a014e824a30b.gif",
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-55e332a7",
+    "title": "Por década",
+    "folders": [
+      {
+        "id": "folder-30f11a51",
+        "title": "1960",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.144321"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/DXATa0y.png",
+        "coverImageUrl": "https://i.imgur.com/yoHtAmr.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144321"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-664a4446",
+        "title": "1970",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.127962"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/zDRH0Ki.png",
+        "coverImageUrl": "https://i.imgur.com/fZxzhhP.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.127962"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-5d820544",
+        "title": "1980",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.91301"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/tjHn6M1.png",
+        "coverImageUrl": "https://i.imgur.com/myvKbIw.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91301"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-678cffcf",
+        "title": "1990",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.91300"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/E3g120J.png",
+        "coverImageUrl": "https://i.imgur.com/zydnd0F.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91300"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-ae76792d",
+        "title": "2000",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.91302"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/tjdMs7q.png",
+        "coverImageUrl": "https://i.imgur.com/PgbK3ck.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91302"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-e947db7d",
+        "title": "2010",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.91303"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/FiVnwkt.png",
+        "coverImageUrl": "https://i.imgur.com/jBpgz6e.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91303"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-8dc6f8c1",
+        "title": "2020",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.91304"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/YoZ9gy8.png",
+        "coverImageUrl": "https://i.imgur.com/BRxnPwf.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91304"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-dc026d94",
+        "title": "2026",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.146004"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/a6ZV5cW.png",
+        "coverImageUrl": "https://i.imgur.com/n8Rwac4.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.146004"
+          }
+        ],
+        "focusGifEnabled": false
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "backdropImageUrl": "https://nuvioapp.space/uploads/covers/1cf9b279-a492-40ae-94f7-857a32c4031f.jpg",
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-f2c6f983",
+    "title": "Cinema internacional",
+    "folders": [
+      {
+        "id": "folder-84624781",
+        "title": "Brasil",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.64633"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.64636"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/yGBHpxv.png",
+        "coverImageUrl": "https://i.imgur.com/nUzPyUt.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.64633"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.64636"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.imgur.com/cagvdyb.jpeg"
+      },
+      {
+        "id": "folder-0261bc5c",
+        "title": "Argentina",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.64533"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/k8qtTyw.png",
+        "coverImageUrl": "https://i.imgur.com/H1c6aPx.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.64533"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.imgur.com/YsIp3q5.jpeg"
+      },
+      {
+        "id": "folder-461fed3a",
+        "title": "Alemanha",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.125474"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/nwGnvzZ.png",
+        "coverImageUrl": "https://i.imgur.com/6dGtGhf.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.125474"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.imgur.com/dDqf5er.jpeg"
+      },
+      {
+        "id": "folder-2c10a052",
+        "title": "França",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.125891"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/A5pCVkg.png",
+        "coverImageUrl": "https://i.imgur.com/UMyKuar.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.125891"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.imgur.com/SvkPqIU.jpeg"
+      },
+      {
+        "id": "folder-4e063445",
+        "title": "Japão",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.125472"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/JUMyZ5u.png",
+        "coverImageUrl": "https://i.imgur.com/Ms5nW5Y.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.125472"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.imgur.com/hmbLWRr.jpeg"
+      },
+      {
+        "id": "folder-1e1f0ca1",
+        "title": "Coreia do Sul",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.125471"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/4RknDxV.png",
+        "coverImageUrl": "https://i.imgur.com/010FJaS.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.125471"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.imgur.com/IlLmS16.jpeg"
+      },
+      {
+        "id": "folder-e3341880",
+        "title": "Espanha",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.64640"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/GE2Ohf3.png",
+        "coverImageUrl": "https://i.imgur.com/33uIIU8.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.64640"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.imgur.com/HSDo2Ts.jpeg"
+      },
+      {
+        "id": "folder-bd2b9f8d",
+        "title": "Europeus",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.64864"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/9vQSqIw.png",
+        "coverImageUrl": "https://i.imgur.com/6Y0shCX.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.64864"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.imgur.com/F3hZXwU.jpeg"
+      },
+      {
+        "id": "folder-5893d5c7",
+        "title": "Asiáticos",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.64930"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.imgur.com/rwnF8QN.png",
+        "coverImageUrl": "https://i.imgur.com/W03u5uq.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.64930"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.imgur.com/aZmgzNN.jpeg"
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "backdropImageUrl": "https://i.imgur.com/r6mb0rh.png",
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-b9f5de6e",
+    "title": "Desenhos",
+    "folders": [
+      {
+        "id": "folder-d693bb22",
+        "title": "Nickelodeon",
+        "sources": [
+          {
+            "type": "Filmes",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.168244"
+          },
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.168245"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/ea3fc1b4-c15e-4a69-9cfe-6d211b90637d.jpg",
+        "catalogSources": [
+          {
+            "type": "Filmes",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.168244"
+          },
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.168245"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-98b35360",
+        "title": "Cartoon Network",
+        "sources": [
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.31163"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/83ec9db2-fc7c-4e10-8644-dce682416079.png",
+        "catalogSources": [
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.31163"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "backdropImageUrl": "https://nuvioapp.space/uploads/covers/83ec9db2-fc7c-4e10-8644-dce682416079.png",
+    "focusGlowEnabled": false
+  },
+  {
+    "id": "collection-6cf19756",
+    "title": "Diversos  Anime🔍✨",
+    "folders": [
+      {
+        "id": "folder-284f6e4b",
+        "title": "Últimos Lançamentos",
+        "sources": [
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.2472"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://i.postimg.cc/Y28RG894/Picsart-26-05-04-11-28-18-945.png",
+        "catalogSources": [
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.2472"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-e63418c3",
+        "title": "Populares",
+        "sources": [
+          {
+            "type": "Filmes",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.13541"
+          },
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.13542"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://i.postimg.cc/9Qwh0DcJ/Picsart-26-05-04-11-01-42-590.jpg",
+        "catalogSources": [
+          {
+            "type": "Filmes",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.13541"
+          },
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.13542"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-ed0c0cf2",
+        "title": "Mais Assistidos",
+        "sources": [
+          {
+            "type": "Filmes",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.13576"
+          },
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.13575"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://i.postimg.cc/4NmC2YH4/Picsart-26-05-04-11-15-03-167.jpg",
+        "catalogSources": [
+          {
+            "type": "Filmes",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.13576"
+          },
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.13575"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-47af6767",
+        "title": "Em breve",
+        "sources": [
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.158702"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://i.postimg.cc/7L1jJ7dR/Picsart-26-05-04-11-16-55-039.jpg",
+        "catalogSources": [
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158702"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "backdropImageUrl": "",
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-d58bedec",
+    "title": "Gêneros",
+    "folders": [
+      {
+        "id": "folder-bcfe3181",
+        "title": "Ação ",
+        "sources": [
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.6871"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/vmpsF9k5/Picsart-26-05-04-12-06-26-875.jpg",
+        "catalogSources": [
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.6871"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-c0585ba2",
+        "title": "Aventura",
+        "sources": [
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.6870"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/c17N2vm7/Picsart-26-05-04-12-13-43-566.jpg",
+        "catalogSources": [
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.6870"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-b5dadc24",
+        "title": "Comédia",
+        "sources": [
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.6928"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/wjZP7z23/Picsart-26-05-04-12-27-26-823.jpg",
+        "catalogSources": [
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.6928"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-2bf9ece6",
+        "title": "Drama",
+        "sources": [
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.8532"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/Hn4DMkzq/Picsart-26-05-04-12-42-02-409.jpg",
+        "catalogSources": [
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.8532"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-89c8d503",
+        "title": "Horror",
+        "sources": [
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.43303"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/1XLn8MWL/Picsart-26-05-04-15-00-14-288.jpg",
+        "catalogSources": [
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.43303"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-21b1cb12",
+        "title": "Shounen",
+        "sources": [
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.158514"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/Ss6tTt9J/Picsart-26-05-04-13-47-52-039.jpg",
+        "catalogSources": [
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158514"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-17dd34c4",
+        "title": "Slice Of Life",
+        "sources": [],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/fbBVcM2V/Picsart-26-05-04-13-57-41-601.jpg",
+        "catalogSources": [],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-64c58efc",
+        "title": "Mecha",
+        "sources": [
+          {
+            "type": "Filmes",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.98352"
+          },
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.10296"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/T1WhvgRh/Picsart-26-05-04-14-01-35-737.jpg",
+        "catalogSources": [
+          {
+            "type": "Filmes",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.98352"
+          },
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.10296"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-83d635d4",
+        "title": "Isekai",
+        "sources": [
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.95975"
+          },
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.139868"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/Wbg6MJMP/Picsart-26-05-04-14-28-38-143.png",
+        "catalogSources": [
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.95975"
+          },
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.139868"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-7d443aed",
+        "title": "Seinen",
+        "sources": [
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.158516"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/gJx3rwYC/Picsart-26-05-04-14-35-13-750.png",
+        "catalogSources": [
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158516"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-051b0d5a",
+        "title": "Shoujo",
+        "sources": [
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.79491"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/mZFQsFpQ/Picsart-26-05-04-14-49-07-452.jpg",
+        "catalogSources": [
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.79491"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-83a8032b",
+        "title": "Donghua",
+        "sources": [
+          {
+            "type": "Filmes",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.73330"
+          },
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.73326"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/T3TmgNdg/Picsart-26-05-04-14-53-54-915.png",
+        "catalogSources": [
+          {
+            "type": "Filmes",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.73330"
+          },
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.73326"
+          }
+        ],
+        "focusGifEnabled": false
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "focusGlowEnabled": false
+  },
+  {
+    "id": "collection-149ae14b",
+    "title": "Anime Sazonal",
+    "folders": [
+      {
+        "id": "folder-2449a25f",
+        "title": "Inverno",
+        "sources": [
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.158520"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/P5H0TsWH/Picsart-26-05-04-16-46-38-390.jpg",
+        "catalogSources": [
+          {
+            "type": "Séries",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158520"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-6cf0b916",
+        "title": "Primavera",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.139688"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/L5sR2JGC/Picsart-26-05-04-17-46-51-895.jpg",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.139688"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-fc54805c",
+        "title": "Verão",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.158518"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/tChDpBNR/Picsart-26-05-04-17-40-11-488.jpg",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158518"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-72d8cde6",
+        "title": "Outono",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.158519"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/Dzgwh38z/Picsart-26-05-04-17-58-42-566.jpg",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158519"
+          }
+        ],
+        "focusGifEnabled": false
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "focusGlowEnabled": false
+  },
+  {
+    "id": "collection-658c4a4d",
+    "title": "Estúdios",
+    "folders": [
+      {
+        "id": "folder-eca95829",
+        "title": "A-1 Pictures",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.103378"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "SQUARE",
+        "coverImageUrl": "https://i.ibb.co/Xr0QMNDD/st-small-507x507-pad-600x600-f8f8f8.jpg",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.103378"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://images.unsplash.com/photo-1557683316-973673baf926?q=80&w=1658&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": "folder-f653f649",
+        "title": "Mad House",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.103385"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "SQUARE",
+        "coverImageUrl": "https://i.ibb.co/RGtzJNTd/31-400.webp",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.103385"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://images.unsplash.com/photo-1557683316-973673baf926?q=80&w=1658&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": "folder-85823a33",
+        "title": "Studio Pierrot",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.103384"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "SQUARE",
+        "coverImageUrl": "https://ih1.redbubble.net/image.5221021342.6521/st,small,507x507-pad,600x600,f8f8f8.webp",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.103384"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://images.unsplash.com/photo-1557683316-973673baf926?q=80&w=1658&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": "folder-8b54dbbf",
+        "title": "Ufotable Studio",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.103382"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "SQUARE",
+        "coverImageUrl": "https://api.duniagames.co.id/api/content//upload/file/3168418521757742014.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.103382"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://images.unsplash.com/photo-1557683316-973673baf926?q=80&w=1658&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": "folder-d1b20f3e",
+        "title": "Production I.G",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.103387"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "SQUARE",
+        "coverImageUrl": "https://ih1.redbubble.net/image.5213991999.5502/st,medium,507x507-pad,600x600,f8f8f8.webp",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.103387"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://images.unsplash.com/photo-1557683316-973673baf926?q=80&w=1658&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": "folder-2f1d9942",
+        "title": "Wit Studio",
+        "sources": [
+          {
+            "type": "anime",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mal.discover.anime.wit_studio.moj6a8u2"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "SQUARE",
+        "coverImageUrl": "https://images.teepublic.com/derived/production/designs/21226254_0/1618872599/i_m:pid_2834,c_s_auto,bc_ffffff,s_630,q_90.jpg",
+        "catalogSources": [
+          {
+            "type": "anime",
+            "addonId": "aio-metadata",
+            "catalogId": "mal.discover.anime.wit_studio.moj6a8u2"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://images.unsplash.com/photo-1557683316-973673baf926?q=80&w=1658&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": "folder-719e370e",
+        "title": "Kyoto Animation",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.103383"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "SQUARE",
+        "coverImageUrl": "https://www.animeclick.it/prove/img_tmp/50103.jpg",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.103383"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://images.unsplash.com/photo-1557683316-973673baf926?q=80&w=1658&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": "folder-63558acc",
+        "title": "Bones Studio",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.103388"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "SQUARE",
+        "coverImageUrl": "https://animateusaonlineshop.com/cdn/shop/collections/bones_collection.jpg?v=1642339752",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.103388"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://images.unsplash.com/photo-1557683316-973673baf926?q=80&w=1658&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": "folder-0de852ce",
+        "title": "Mappa Studio",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.103386"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "SQUARE",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7ZfCOzvaa4Y1nY3CIiwc70X1YpQvhh6qn0w&s",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.103386"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://images.unsplash.com/photo-1557683316-973673baf926?q=80&w=1658&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": "folder-bcead193",
+        "title": "Toei Animation Studio",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.103381"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "SQUARE",
+        "coverImageUrl": "https://pbs.twimg.com/media/G5A_3hvXsAA4ojA.jpg",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.103381"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://images.unsplash.com/photo-1557683316-973673baf926?q=80&w=1658&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-ac07505a",
+    "title": "Décadas",
+    "folders": [
+      {
+        "id": "folder-12b340fb",
+        "title": "1960s",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.25246"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/0534D0JB/DERNIERS-AJOUTS(3).png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.25246"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-87064aed",
+        "title": "1970s",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.25245"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/gJ3xsD2s/DERNIERS-AJOUTS(1).png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.25245"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-070b66db",
+        "title": "1980s",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.25244"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/Sscndrxr/DERNIERS-AJOUTS(2).png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.25244"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-00fd30c4",
+        "title": "1990s",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.25243"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/bwfPw9TG/DERNIERS-AJOUTS(1).png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.25243"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-3087756d",
+        "title": "2000s",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.25242"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/tg18d12Q/DERNIERS-AJOUTS(2).png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.25242"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-7b723dbb",
+        "title": "2010s",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.25241"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/MTBTLpZ3/DERNIERS-AJOUTS(4).png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.25241"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-cdf1876a",
+        "title": "2020s",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.25240"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/QVGczzrY/DERNIERS-AJOUTS(5).png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.25240"
+          }
+        ],
+        "focusGifEnabled": false
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "focusGlowEnabled": true
+  }
+]
