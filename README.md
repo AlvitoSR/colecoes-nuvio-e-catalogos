@@ -4,6 +4,13 @@ Coleções personalizadas com **filmes, séries e animes**.
 
 Tudo foi feito com base no meu gosto — mas você pode editar como quiser.
 
+
+
+Utilizei imagens e config de outras pessoas.
+
+Creditos: https://www.reddit.com/r/Nuvio/comments/1t7rjo5/sharing_my_homemade_ptbr_nuvio_collections_setup/
+https://www.reddit.com/r/Nuvio/comments/1t2oa8k/ultimate_anime_nuvio_build_dynamic_mdblist_setup/
+
 ---
 
 ## 🎥 Filmes
