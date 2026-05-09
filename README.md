@@ -1,3 +1,21 @@
 Coleções e catalogos para o nuvio, com filmes, series e anime.
 
-Fiz do meu gosto, se não gostar de algo, voce pode alterar.
+Fiz do meu gosto, se não gostar de algo, voce consegue alterar.
+
+
+<img width="2712" height="1220" alt="image" src="https://github.com/user-attachments/assets/e76c171c-6e64-492f-a481-f5db37c02899" />
+
+
+<img width="2712" height="1220" alt="image" src="https://github.com/user-attachments/assets/65050c17-b606-4ee1-81b6-53b21b744000" />
+
+
+<img width="2712" height="1220" alt="image" src="https://github.com/user-attachments/assets/254fb284-5cf7-4fad-a20d-f8411cd8e4f6" />
+
+
+<img width="2712" height="1220" alt="image" src="https://github.com/user-attachments/assets/7a4c5e1a-03b3-4f3c-b1c5-b0c7f6347bcc" />
+
+
+<img width="2712" height="1220" alt="image" src="https://github.com/user-attachments/assets/99d9a395-9410-4f94-803c-95b3956de549" />
+
+
+<img width="2712" height="1220" alt="image" src="https://github.com/user-attachments/assets/81d38681-34af-4ea5-ae38-7de8c95a3a4c" />
