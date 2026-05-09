@@ -1,6 +1,6 @@
 {
   "version": "2.2.2",
-  "exportedAt": "2026-05-09T19:26:24.331Z",
+  "exportedAt": "2026-05-09T19:36:58.220Z",
   "config": {
     "language": "pt-BR",
     "addonName": "",
@@ -2994,7 +2994,7 @@
           "url": "https://mdblist.com/lists/kingkearney/marvel-universe",
           "mediatype": "movie"
         },
-        "displayType": "Super-Herói"
+        "displayType": "movie"
       },
       {
         "id": "mdblist.3021",
@@ -3014,7 +3014,7 @@
           "url": "https://mdblist.com/lists/kingkearney/dc-universe",
           "mediatype": "movie"
         },
-        "displayType": "Super-Herói"
+        "displayType": "movie"
       },
       {
         "id": "mdblist.2636",
@@ -3034,7 +3034,7 @@
           "url": "https://mdblist.com/lists/linaspurinis/pixar-movies",
           "mediatype": "movie"
         },
-        "displayType": "Animação"
+        "displayType": "movie"
       },
       {
         "id": "mdblist.12833",
@@ -3054,7 +3054,7 @@
           "url": "https://mdblist.com/lists/mmagtech/dreamworks-animation",
           "mediatype": "movie"
         },
-        "displayType": "Animação"
+        "displayType": "movie"
       },
       {
         "id": "mdblist.159296",
@@ -3112,7 +3112,7 @@
           "url": "https://mdblist.com/lists/techtitus/cartoon-network",
           "mediatype": "show"
         },
-        "displayType": "Animação"
+        "displayType": "Series"
       },
       {
         "id": "mdblist.168244",
@@ -3132,7 +3132,7 @@
           "url": "https://mdblist.com/lists/wante/nickelodeon",
           "mediatype": "movie"
         },
-        "displayType": "Animação"
+        "displayType": "Series"
       },
       {
         "id": "mdblist.168245",
@@ -3152,7 +3152,7 @@
           "url": "https://mdblist.com/lists/wante/nickelodeon",
           "mediatype": "show"
         },
-        "displayType": "Animação"
+        "displayType": "Series"
       },
       {
         "id": "mdblist.3082",
