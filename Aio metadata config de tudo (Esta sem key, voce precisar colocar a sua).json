@@ -1,0 +1,3513 @@
+{
+  "version": "2.2.2",
+  "exportedAt": "2026-05-09T16:38:58.087Z",
+  "config": {
+    "language": "pt-BR",
+    "addonName": "",
+    "includeAdult": false,
+    "blurThumbs": false,
+    "showPrefix": false,
+    "showMetaProviderAttribution": false,
+    "castCount": 10,
+    "displayAgeRating": false,
+    "showDisabledCatalogs": false,
+    "sfw": true,
+    "hideUnreleasedDigital": false,
+    "hideUnreleasedDigitalSearch": false,
+    "hideWatchedTrakt": false,
+    "hideWatchedAnilist": false,
+    "hideWatchedMdblist": false,
+    "providers": {
+      "movie": "tmdb",
+      "series": "tvdb",
+      "anime": "mal",
+      "anime_id_provider": "imdb",
+      "forceAnimeForDetectedImdb": true
+    },
+    "artProviders": {
+      "movie": {
+        "poster": "tmdb",
+        "background": "tmdb",
+        "logo": "tmdb"
+      },
+      "series": {
+        "poster": "tmdb",
+        "background": "tmdb",
+        "logo": "tmdb"
+      },
+      "anime": {
+        "poster": "tmdb",
+        "background": "tmdb",
+        "logo": "tmdb"
+      },
+      "englishArtOnly": false,
+      "originalLangFallback": true
+    },
+    "tvdbSeasonType": "official",
+    "mal": {
+      "skipFiller": false,
+      "skipRecap": false,
+      "allowEpisodeMarking": false,
+      "useImdbIdForCatalogAndSearch": false
+    },
+    "tmdb": {
+      "scrapeImdb": true,
+      "forceLatinCastNames": false
+    },
+    "apiKeys": {
+      "gemini": "",
+      "tmdb": "",
+      "tvdb": "",
+      "fanart": "",
+      "rpdb": "",
+      "topPoster": "",
+      "mdblist": "",
+      "openrouter": "",
+      "traktTokenId": "",
+      "simklTokenId": "",
+      "anilistTokenId": "",
+      "customDescriptionBlurb": ""
+    },
+    "posterRatingProvider": "custom",
+    "usePosterProxy": true,
+    "mdblistWatchTracking": true,
+    "anilistWatchTracking": true,
+    "simklWatchTracking": true,
+    "traktWatchTracking": true,
+    "enableRatingPostersForLibrary": true,
+    "showRateMeButton": false,
+    "ageRating": "None",
+    "searchEnabled": true,
+    "sessionId": "",
+    "catalogSetupComplete": true,
+    "timezone": "America/Sao_Paulo",
+    "catalogs": [
+      {
+        "id": "mdblist.120520",
+        "type": "series",
+        "name": "Top 10 Animes da semana",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "anime",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 10,
+          "author": "kidou14",
+          "url": "https://mdblist.com/lists/kidou14/top-10-anime-of-the-week",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.86214",
+        "type": "series",
+        "name": "Atualmente em exibição",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "anime",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 107,
+          "author": "moafew21",
+          "url": "https://mdblist.com/lists/moafew21/latest-anime",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.47642",
+        "type": "series",
+        "name": "Desta temporada",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 57,
+          "author": "skack97",
+          "url": "https://mdblist.com/lists/skack97/current-anime-season",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.14678",
+        "type": "movie",
+        "name": "Em alta",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 28800,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 250,
+          "url": "https://mdblist.com/lists/adamosborne01/hmmmmmmmm",
+          "mediatype": "movie",
+          "author": "adamosborne01"
+        },
+        "displayType": "Filmes"
+      },
+      {
+        "id": "mdblist.78821",
+        "type": "series",
+        "name": "Em alta",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 250,
+          "url": "https://mdblist.com/lists/adamosborne01/umbrella-tv-shows-trending",
+          "mediatype": "show",
+          "author": "adamosborne01"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.86934",
+        "type": "movie",
+        "name": "Lançamentos recentes",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 28800,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 500,
+          "url": "https://mdblist.com/lists/snoak/latest-movies-digital-release",
+          "mediatype": "movie",
+          "author": "snoak"
+        },
+        "displayType": "Filmes"
+      },
+      {
+        "id": "mdblist.149750",
+        "type": "movie",
+        "name": "Recomendados",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "imdbrating",
+        "order": "asc",
+        "cacheTTL": 28800,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 824,
+          "url": "https://mdblist.com/lists/matheus_carinio/recomendados-illa5vjcho",
+          "mediatype": "movie",
+          "author": "matheus_carinio"
+        },
+        "displayType": "Filmes",
+        "randomizePerPage": true
+      },
+      {
+        "id": "mdblist.91040",
+        "type": "movie",
+        "name": "Filmes curtos",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "tmdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 3879,
+          "url": "https://mdblist.com/lists/tdvh1993/105-mins-under",
+          "mediatype": "movie",
+          "author": "tdvh1993"
+        },
+        "displayType": "Movie"
+      },
+      {
+        "id": "mdblist.13575",
+        "type": "series",
+        "name": "Mais Assistidos",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "anime",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 897,
+          "author": "linvo",
+          "url": "https://mdblist.com/lists/linvo/top-of-all-time-anime-series",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.13576",
+        "type": "movie",
+        "name": "Mais Assistidos",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 375,
+          "author": "linvo",
+          "url": "https://mdblist.com/lists/linvo/top-of-all-time-anime-movies",
+          "mediatype": "movie"
+        },
+        "displayType": "Filmes"
+      },
+      {
+        "id": "mdblist.13542",
+        "type": "series",
+        "name": "Popular",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 1365,
+          "author": "linvo",
+          "url": "https://mdblist.com/lists/linvo/anime-series-popular",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.13541",
+        "type": "movie",
+        "name": "Popular",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 1047,
+          "author": "linvo",
+          "url": "https://mdblist.com/lists/linvo/anime-movies-popular",
+          "mediatype": "movie"
+        },
+        "displayType": "Filmes"
+      },
+      {
+        "id": "mdblist.2472",
+        "type": "series",
+        "name": "Últimos lançamentos",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "released",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 330,
+          "author": "iamscallywag",
+          "url": "https://mdblist.com/lists/iamscallywag/latest-anime",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.103378",
+        "type": "series",
+        "name": "A-1 Pictures",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 83,
+          "author": "jarvis-15468249",
+          "url": "https://mdblist.com/lists/jarvis-15468249/a-1-pictures-shows",
+          "mediatype": "show"
+        },
+        "displayType": "series"
+      },
+      {
+        "id": "mdblist.103384",
+        "type": "series",
+        "name": "Pierrot Animation",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 116,
+          "author": "chrismilton605-gmail-com",
+          "url": "https://mdblist.com/lists/chrismilton605-gmail-com/pierrot-animation-shows",
+          "mediatype": "show"
+        },
+        "displayType": "series"
+      },
+      {
+        "id": "mdblist.103385",
+        "type": "series",
+        "name": "Madhouse",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 154,
+          "author": "chrismilton605-gmail-com",
+          "url": "https://mdblist.com/lists/chrismilton605-gmail-com/madhouse-shows",
+          "mediatype": "show"
+        },
+        "displayType": "series"
+      },
+      {
+        "id": "mdblist.103386",
+        "type": "series",
+        "name": "MAPPA",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 45,
+          "author": "chrismilton605-gmail-com",
+          "url": "https://mdblist.com/lists/chrismilton605-gmail-com/mappa-shows",
+          "mediatype": "show"
+        },
+        "displayType": "series"
+      },
+      {
+        "id": "mdblist.103387",
+        "type": "series",
+        "name": "Production I.G",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 117,
+          "author": "chrismilton605-gmail-com",
+          "url": "https://mdblist.com/lists/chrismilton605-gmail-com/production-ig-shows",
+          "mediatype": "show"
+        },
+        "displayType": "series"
+      },
+      {
+        "id": "mdblist.103383",
+        "type": "series",
+        "name": "Kyoto Animation",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 26,
+          "author": "xpertplayer123",
+          "url": "https://mdblist.com/lists/xpertplayer123/kyoto-animation-shows",
+          "mediatype": "show"
+        },
+        "displayType": "series"
+      },
+      {
+        "id": "mdblist.103382",
+        "type": "series",
+        "name": "Ufotable",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 15,
+          "author": "xpertplayer123",
+          "url": "https://mdblist.com/lists/xpertplayer123/ufotable-shows",
+          "mediatype": "show"
+        },
+        "displayType": "series"
+      },
+      {
+        "id": "mdblist.103381",
+        "type": "series",
+        "name": "Toei Animation",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 255,
+          "author": "xpertplayer123",
+          "url": "https://mdblist.com/lists/xpertplayer123/toei-animation-shows",
+          "mediatype": "show"
+        },
+        "displayType": "series"
+      },
+      {
+        "id": "mdblist.103388",
+        "type": "series",
+        "name": "Bones",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "anime",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 56,
+          "author": "xpert192938",
+          "url": "https://mdblist.com/lists/xpert192938/bones-shows",
+          "mediatype": "show"
+        },
+        "displayType": "series"
+      },
+      {
+        "id": "mdblist.82978",
+        "type": "series",
+        "name": "A Venir",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "anime",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 8,
+          "author": "mkswifty",
+          "url": "https://mdblist.com/lists/mkswifty/upcoming-anime-mkb",
+          "mediatype": "show"
+        },
+        "displayType": "series"
+      },
+      {
+        "id": "mdblist.6871",
+        "type": "series",
+        "name": "Ação",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "released",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 2580,
+          "author": "denes97",
+          "url": "https://mdblist.com/lists/denes97/anime-tv-list-7f3ee625-b297-4626-bfaa-db2ee2dbbc9f",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.6870",
+        "type": "series",
+        "name": "Aventura",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "released",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 4666,
+          "author": "denes97",
+          "url": "https://mdblist.com/lists/denes97/anime-tv-list",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.8532",
+        "type": "series",
+        "name": "Drama",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "released",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 425,
+          "author": "andrewkennedy",
+          "url": "https://mdblist.com/lists/andrewkennedy/top-rated-anime",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.6928",
+        "type": "series",
+        "name": "Comédia",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "released",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 262,
+          "author": "breon64",
+          "url": "https://mdblist.com/lists/breon64/popular-anime",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.43303",
+        "type": "series",
+        "name": "Horror",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "released",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 5441,
+          "author": "latestanimereleaselist",
+          "url": "https://mdblist.com/lists/latestanimereleaselist/latest-anime-releases",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.95975",
+        "type": "series",
+        "name": "Isekai",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "released",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "anime",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 305,
+          "author": "sylgretor",
+          "url": "https://mdblist.com/lists/sylgretor/list-of-all-anime-series-tagged-isekai",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.158519",
+        "type": "series",
+        "name": "Outono",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "anime",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 1,
+          "author": "axee4",
+          "url": "https://mdblist.com/lists/axee4/anime-fall",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.139868",
+        "type": "series",
+        "name": "Isekai",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "released",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "anime",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 199,
+          "author": "axee4",
+          "url": "https://mdblist.com/lists/axee4/anime-isekai",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.158516",
+        "type": "series",
+        "name": "Seinen",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "released",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "anime",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 4695,
+          "author": "axee4",
+          "url": "https://mdblist.com/lists/axee4/anime-seinen",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.158514",
+        "type": "series",
+        "name": "Shounen",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "released",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "anime",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 4987,
+          "author": "axee4",
+          "url": "https://mdblist.com/lists/axee4/anime-hounen",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.158518",
+        "type": "series",
+        "name": "Verão",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "anime",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 5,
+          "author": "axee4",
+          "url": "https://mdblist.com/lists/axee4/anime-summer",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.139688",
+        "type": "series",
+        "name": "Primavera",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "anime",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 20,
+          "author": "axee4",
+          "url": "https://mdblist.com/lists/axee4/anime-spring-0i3k8rc5cx",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.158702",
+        "type": "series",
+        "name": "Em breve",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "anime",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 56,
+          "author": "axee4",
+          "url": "https://mdblist.com/lists/axee4/anime-upcoming",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.158520",
+        "type": "series",
+        "name": "Inverno",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "anime",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 0,
+          "author": "axee4",
+          "url": "https://mdblist.com/lists/axee4/anime-winter",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.148240",
+        "type": "all",
+        "name": "Yuri",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "anime",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 152,
+          "author": "yuyach",
+          "url": "https://mdblist.com/lists/yuyach/yuri"
+        }
+      },
+      {
+        "id": "mdblist.10296",
+        "type": "series",
+        "name": "Mecha",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "released",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "anime",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 349,
+          "author": "mwillacey71",
+          "url": "https://mdblist.com/lists/mwillacey71/mecha-anime-6d0073cd-e875-499e-bbf1-3196005cc323",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.98352",
+        "type": "movie",
+        "name": "Mecha",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "released",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "anime",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 320,
+          "author": "mwillacey71",
+          "url": "https://mdblist.com/lists/mwillacey71/mecha-anime-6d0073cd-e875-499e-bbf1-3196005cc323",
+          "mediatype": "movie"
+        },
+        "displayType": "Filmes"
+      },
+      {
+        "id": "mdblist.79491",
+        "type": "series",
+        "name": "Shoujo",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "released",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "anime",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 88,
+          "author": "v4v4i",
+          "url": "https://mdblist.com/lists/v4v4i/slice-of-life-mostly-shojo",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.29912",
+        "type": "series",
+        "name": "Crunchy",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "anime",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 1759,
+          "author": "jukebox8786",
+          "url": "https://mdblist.com/lists/jukebox8786/crunchyroll-anime",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.29914",
+        "type": "series",
+        "name": "Anime Digital Network",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 392,
+          "author": "jukebox8786",
+          "url": "https://mdblist.com/lists/jukebox8786/anime-digital-network-anime",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "streaming.cru",
+        "name": "Crunchyroll (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "sort": "popularity",
+        "sortDirection": "desc",
+        "displayType": "Filmes",
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.cru",
+        "name": "Crunchyroll (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "sort": "popularity",
+        "sortDirection": "desc",
+        "displayType": "Séries",
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "mdblist.73326",
+        "type": "series",
+        "name": "Donghua",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 626,
+          "author": "alindoggmail",
+          "url": "https://mdblist.com/lists/alindoggmail/donghua-alin",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.73330",
+        "type": "movie",
+        "name": "Donghua",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 113,
+          "author": "alindoggmail",
+          "url": "https://mdblist.com/lists/alindoggmail/donghua-movies",
+          "mediatype": "movie"
+        },
+        "displayType": "Filmes"
+      },
+      {
+        "id": "mdblist.25240",
+        "type": "series",
+        "name": "Anime 2020s",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "imdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 972,
+          "author": "pheerlessliter",
+          "url": "https://mdblist.com/lists/pheerlessliter/anime-2020s",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.25241",
+        "type": "series",
+        "name": "Anime 2010s",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "imdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 1547,
+          "author": "pheerlessliter",
+          "url": "https://mdblist.com/lists/pheerlessliter/anime-2010s",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.25242",
+        "type": "series",
+        "name": "Anime 2000s",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "imdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 1081,
+          "author": "pheerlessliter",
+          "url": "https://mdblist.com/lists/pheerlessliter/anime-2000s",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.25243",
+        "type": "series",
+        "name": "Anime 1990s",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "imdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 637,
+          "author": "pheerlessliter",
+          "url": "https://mdblist.com/lists/pheerlessliter/anime-1990s",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.25244",
+        "type": "series",
+        "name": "Anime 1980s",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "imdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 348,
+          "author": "pheerlessliter",
+          "url": "https://mdblist.com/lists/pheerlessliter/anime-1980s",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.25245",
+        "type": "series",
+        "name": "Anime 1970s",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "imdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 181,
+          "author": "pheerlessliter",
+          "url": "https://mdblist.com/lists/pheerlessliter/anime-1970s",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.25246",
+        "type": "series",
+        "name": "Anime 1960s",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "imdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 63,
+          "author": "pheerlessliter",
+          "url": "https://mdblist.com/lists/pheerlessliter/anime-1960s",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.24814",
+        "type": "series",
+        "name": "Dubbed Only",
+        "enabled": false,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 234,
+          "author": "sysops",
+          "url": "https://mdblist.com/lists/sysops/anime-dubbed-only",
+          "mediatype": "show"
+        },
+        "displayType": "series"
+      },
+      {
+        "id": "mdblist.31268",
+        "type": "series",
+        "name": "Anime Seasonal",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 451,
+          "author": "imalpha11",
+          "url": "https://mdblist.com/lists/imalpha11/anime-seasonal",
+          "mediatype": "show"
+        }
+      },
+      {
+        "id": "mdblist.149765",
+        "type": "movie",
+        "name": "Premiados",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "random",
+        "order": "desc",
+        "cacheTTL": 28800,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 487,
+          "url": "https://mdblist.com/lists/matheus_carinio/premiados",
+          "mediatype": "movie",
+          "author": "matheus_carinio"
+        },
+        "displayType": "movie",
+        "randomizePerPage": true
+      },
+      {
+        "id": "mdblist.149758",
+        "type": "movie",
+        "name": "Oscar de melhor filme (indicados)",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 28800,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 236,
+          "url": "https://mdblist.com/lists/matheus_carinio/indicados-ao-oscar-de-melhor-filme",
+          "mediatype": "movie",
+          "author": "matheus_carinio"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.89288",
+        "type": "movie",
+        "name": "Filmes premiados em Cannes",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 490,
+          "url": "https://mdblist.com/lists/emooak/col-films-primes-au-festival-de-cannes",
+          "author": "emooak"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.57005",
+        "type": "movie",
+        "name": "IMDb top 250",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "random",
+        "order": "asc",
+        "cacheTTL": 28800,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 250,
+          "url": "https://mdblist.com/lists/adamosborne01/imdb-top-250",
+          "mediatype": "movie",
+          "author": "adamosborne01"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.7997",
+        "type": "movie",
+        "name": "Terror",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "imdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 968,
+          "url": "https://mdblist.com/lists/adamosborne01/horror1",
+          "mediatype": "movie",
+          "author": "adamosborne01"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.7999",
+        "type": "movie",
+        "name": "Suspense",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "imdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 1311,
+          "url": "https://mdblist.com/lists/adamosborne01/thriller1",
+          "mediatype": "movie",
+          "author": "adamosborne01"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.7996",
+        "type": "movie",
+        "name": "Ação e aventura",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "imdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 1125,
+          "url": "https://mdblist.com/lists/adamosborne01/action1",
+          "mediatype": "movie",
+          "author": "adamosborne01"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.10619",
+        "type": "movie",
+        "name": "Crime",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "imdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 768,
+          "url": "https://mdblist.com/lists/adamosborne01/crime",
+          "mediatype": "movie",
+          "author": "adamosborne01"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.7998",
+        "type": "movie",
+        "name": "Ficção científica",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "imdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 759,
+          "url": "https://mdblist.com/lists/adamosborne01/scifi1",
+          "mediatype": "movie",
+          "author": "adamosborne01"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.59843",
+        "type": "movie",
+        "name": "Guerra",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "imdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 572,
+          "url": "https://mdblist.com/lists/learysaddler/popular-war-movies",
+          "mediatype": "movie",
+          "author": "learysaddler"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.149757",
+        "type": "movie",
+        "name": "Desastre e distopia",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "imdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 708,
+          "url": "https://mdblist.com/lists/matheus_carinio/desastre-e-distopia",
+          "mediatype": "movie",
+          "author": "matheus_carinio"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.3105",
+        "type": "movie",
+        "name": "Drama",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "imdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 400,
+          "url": "https://mdblist.com/lists/garycrawfordgc/drama",
+          "mediatype": "movie",
+          "author": "garycrawfordgc"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.128262",
+        "type": "movie",
+        "name": "Romance",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "imdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 500,
+          "url": "https://mdblist.com/lists/snoak/popular-romance-movies",
+          "mediatype": "movie",
+          "author": "snoak"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.6638",
+        "type": "movie",
+        "name": "História",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "imdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 455,
+          "url": "https://mdblist.com/lists/MaxtronTV/history-movies",
+          "mediatype": "movie",
+          "author": "MaxtronTV"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.2195",
+        "type": "movie",
+        "name": "Comédia",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "imdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 4002,
+          "url": "https://mdblist.com/lists/hdlists/comedy-movies-2001-2020",
+          "mediatype": "movie",
+          "author": "hdlists"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.2413",
+        "type": "movie",
+        "name": "Super-heróis",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "imdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 184,
+          "url": "https://mdblist.com/lists/hdlists/latest-hd-superhero-movies-from-1980-to-today",
+          "mediatype": "movie",
+          "author": "hdlists"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.121922",
+        "type": "movie",
+        "name": "Animação",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "imdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 500,
+          "url": "https://mdblist.com/lists/snoak/animationanime-movies",
+          "mediatype": "movie",
+          "author": "snoak"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.4526",
+        "type": "movie",
+        "name": "Festividades",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "imdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 776,
+          "url": "https://mdblist.com/lists/johnjay829/jj-anime",
+          "mediatype": "movie",
+          "author": "johnjay829"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.123231",
+        "type": "movie",
+        "name": "Faroeste",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "imdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 1220,
+          "url": "https://mdblist.com/lists/notamongo5/western-new",
+          "mediatype": "movie",
+          "author": "notamongo5"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.128027",
+        "type": "movie",
+        "name": "Documentários",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "imdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 200,
+          "url": "https://mdblist.com/lists/snoak/latest-documentary-movies",
+          "mediatype": "movie",
+          "author": "snoak"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.3892",
+        "type": "movie",
+        "name": "Dinâmicos",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "random",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 286,
+          "url": "https://mdblist.com/lists/hdlists/mindfuck-movies",
+          "mediatype": "movie",
+          "author": "hdlists"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.8052",
+        "type": "movie",
+        "name": "Clássicos",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "score_average",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 310,
+          "url": "https://mdblist.com/lists/honklord/classics",
+          "mediatype": "movie",
+          "author": "honklord"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.5964",
+        "type": "movie",
+        "name": "Coreanos e japoneses",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "imdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 567,
+          "url": "https://mdblist.com/lists/prisoner0093/korean-and-japanese-movie",
+          "mediatype": "movie",
+          "author": "prisoner0093"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.96197",
+        "type": "movie",
+        "name": "Blumhouse",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 130,
+          "url": "https://mdblist.com/lists/notamongo5/blumhouse",
+          "mediatype": "movie",
+          "author": "notamongo5"
+        }
+      },
+      {
+        "id": "letterboxd.TQjKM",
+        "type": "movie",
+        "name": "Filmes visualmente bonitos",
+        "enabled": true,
+        "showInHome": false,
+        "source": "letterboxd",
+        "cacheTTL": 86400,
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 183,
+          "url": "https://letterboxd.com/mashinee/list/most-visually-beautiful-films/",
+          "identifier": "TQjKM",
+          "isWatchlist": false
+        },
+        "displayType": "movie",
+        "randomizePerPage": true
+      },
+      {
+        "id": "mdblist.83280",
+        "type": "movie",
+        "name": "Quem foi?",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 917,
+          "url": "https://mdblist.com/lists/netplexflix/whodunit-and-murder-mysteries",
+          "mediatype": "movie",
+          "author": "netplexflix"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.64533",
+        "type": "movie",
+        "name": "Argentinos",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "imdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 1201,
+          "url": "https://mdblist.com/lists/mxtrakttv/argentina-movies",
+          "mediatype": "movie",
+          "author": "mxtrakttv"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.64633",
+        "type": "movie",
+        "name": "Brasileiros",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "imdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 2551,
+          "url": "https://mdblist.com/lists/mxtrakttv/brasil-movies",
+          "mediatype": "movie",
+          "author": "mxtrakttv"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.64636",
+        "type": "series",
+        "name": "Brasileiras",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "imdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 336,
+          "url": "https://mdblist.com/lists/mxtrakttv/brasil-series",
+          "mediatype": "show",
+          "author": "mxtrakttv"
+        },
+        "displayType": "series"
+      },
+      {
+        "id": "mdblist.125891",
+        "type": "movie",
+        "name": "Franceses",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "imdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 1610,
+          "url": "https://mdblist.com/lists/cc-hub-streaming/best-of-france-foreign-cinema",
+          "mediatype": "movie",
+          "author": "cc-hub-streaming"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.125474",
+        "type": "movie",
+        "name": "Alemães",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "imdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 599,
+          "url": "https://mdblist.com/lists/cc-hub-streaming/best-of-german-cinema",
+          "mediatype": "movie",
+          "author": "cc-hub-streaming"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.125472",
+        "type": "movie",
+        "name": "Japoneses",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "imdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 641,
+          "url": "https://mdblist.com/lists/cc-hub-streaming/best-of-japanese-cinema",
+          "mediatype": "movie",
+          "author": "cc-hub-streaming"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.125471",
+        "type": "movie",
+        "name": "Sul-coreanos",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "imdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 508,
+          "url": "https://mdblist.com/lists/cc-hub-streaming/best-of-korean-cinema",
+          "mediatype": "movie",
+          "author": "cc-hub-streaming"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.64640",
+        "type": "movie",
+        "name": "Espanhóis",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "imdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 3135,
+          "url": "https://mdblist.com/lists/mxtrakttv/espana-movies",
+          "mediatype": "movie",
+          "author": "mxtrakttv"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.64864",
+        "type": "movie",
+        "name": "Europeus",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "imdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 1000,
+          "url": "https://mdblist.com/lists/mxtrakttv/europa-europa-movies",
+          "mediatype": "movie",
+          "author": "mxtrakttv"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.64930",
+        "type": "movie",
+        "name": "Asiáticos",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "imdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 1000,
+          "url": "https://mdblist.com/lists/mxtrakttv/asia-movies",
+          "mediatype": "movie",
+          "author": "mxtrakttv"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.131935",
+        "type": "movie",
+        "name": "Filmes alegres",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "imdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 410,
+          "url": "https://mdblist.com/lists/atalante421/feelgood-comfort-movies",
+          "mediatype": "movie",
+          "author": "atalante421"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.144321",
+        "type": "movie",
+        "name": "Filmes Populares 1960s",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 117,
+          "url": "https://mdblist.com/lists/snoak/popular-1960s-movies",
+          "mediatype": "movie",
+          "author": "snoak"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.127962",
+        "type": "movie",
+        "name": "Filmes Populares 1970s",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 159,
+          "url": "https://mdblist.com/lists/snoak/popular-1970s-movies",
+          "mediatype": "movie",
+          "author": "snoak"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.91301",
+        "type": "movie",
+        "name": "Filmes Populares 1980s",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 220,
+          "url": "https://mdblist.com/lists/snoak/top-1980s-movies",
+          "mediatype": "movie",
+          "author": "snoak"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.91300",
+        "type": "movie",
+        "name": "Filmes Populares 1990s",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 314,
+          "url": "https://mdblist.com/lists/snoak/top-1990s-movies",
+          "mediatype": "movie",
+          "author": "snoak"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.91302",
+        "type": "movie",
+        "name": "Filmes Populares 2000s",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 448,
+          "url": "https://mdblist.com/lists/snoak/top-2000s-movies",
+          "mediatype": "movie",
+          "author": "snoak"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.91303",
+        "type": "movie",
+        "name": "Filmes Populares 2010s",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 371,
+          "url": "https://mdblist.com/lists/snoak/top-2010s-movies",
+          "mediatype": "movie",
+          "author": "snoak"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.91304",
+        "type": "movie",
+        "name": "Filmes Populares 2020s",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 179,
+          "url": "https://mdblist.com/lists/snoak/top-2020s-movies",
+          "mediatype": "movie",
+          "author": "snoak"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.146004",
+        "type": "movie",
+        "name": "Filmes Populares 2026s",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 200,
+          "url": "https://mdblist.com/lists/snoak/popular-2026-movies",
+          "mediatype": "movie",
+          "author": "snoak"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "streaming.nfx",
+        "name": "Netflix (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.nfx",
+        "name": "Netflix (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.nfk",
+        "name": "Netflix Kids (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.nfk",
+        "name": "Netflix Kids (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.hbm",
+        "name": "HBO Max (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.hbm",
+        "name": "HBO Max (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.dnp",
+        "name": "Disney+ (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.dnp",
+        "name": "Disney+ (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.amp",
+        "name": "Prime Video (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.amp",
+        "name": "Prime Video (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.atp",
+        "name": "Apple TV+ (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.atp",
+        "name": "Apple TV+ (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.pmp",
+        "name": "Paramount+ (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.pmp",
+        "name": "Paramount+ (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.pcp",
+        "name": "Peacock Premium (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.pcp",
+        "name": "Peacock Premium (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.hlu",
+        "name": "Hulu (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.hlu",
+        "name": "Hulu (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.cts",
+        "name": "Curiosity Stream (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.cts",
+        "name": "Curiosity Stream (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.mgl",
+        "name": "MagellanTV (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.mgl",
+        "name": "MagellanTV (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.hay",
+        "name": "Hayu (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.hay",
+        "name": "Hayu (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.clv",
+        "name": "Clarovideo (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.clv",
+        "name": "Clarovideo (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.gop",
+        "name": "Globoplay (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.gop",
+        "name": "Globoplay (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.hst",
+        "name": "JioHotstar (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.hst",
+        "name": "JioHotstar (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.slv",
+        "name": "Sony Liv (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.slv",
+        "name": "Sony Liv (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.zee",
+        "name": "Zee5 (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.zee",
+        "name": "Zee5 (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.nlz",
+        "name": "NLZIET (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.nlz",
+        "name": "NLZIET (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.vil",
+        "name": "Videoland (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.vil",
+        "name": "Videoland (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.sst",
+        "name": "SkyShowtime (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.sst",
+        "name": "SkyShowtime (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.sky",
+        "name": "Sky Go (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.sky",
+        "name": "Sky Go (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.wow",
+        "name": "WOW (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.wow",
+        "name": "WOW (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.blv",
+        "name": "BluTV (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.blv",
+        "name": "BluTV (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.cpd",
+        "name": "Canal+ (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.cpd",
+        "name": "Canal+ (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.crv",
+        "name": "Crave (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.crv",
+        "name": "Crave (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.dpe",
+        "name": "Discovery+ (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.dpe",
+        "name": "Discovery+ (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.bet",
+        "name": "Bet+ (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.bet",
+        "name": "Bet+ (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.mub",
+        "name": "MUBI (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.mub",
+        "name": "MUBI (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.sta",
+        "name": "Starz (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.sta",
+        "name": "Starz (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.crc",
+        "name": "Criterion Channel (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.crc",
+        "name": "Criterion Channel (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.hid",
+        "name": "HIDIVE (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "streaming.hid",
+        "name": "HIDIVE (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "tmdb.top",
+        "name": "TMDB Popular",
+        "type": "movie",
+        "source": "tmdb",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "tmdb.top",
+        "name": "TMDB Popular",
+        "type": "series",
+        "source": "tmdb",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "tmdb.trending",
+        "name": "TMDB Trending",
+        "type": "movie",
+        "source": "tmdb",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "tmdb.trending",
+        "name": "TMDB Trending",
+        "type": "series",
+        "source": "tmdb",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "tmdb.top_rated",
+        "name": "TMDB Top Rated",
+        "type": "movie",
+        "source": "tmdb",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "tmdb.top_rated",
+        "name": "TMDB Top Rated",
+        "type": "series",
+        "source": "tmdb",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "tmdb.airing_today",
+        "name": "TMDB Airing Today",
+        "type": "series",
+        "source": "tmdb",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "tmdb.year",
+        "name": "TMDB By Year",
+        "type": "movie",
+        "source": "tmdb",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "tmdb.year",
+        "name": "TMDB By Year",
+        "type": "series",
+        "source": "tmdb",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "tmdb.language",
+        "name": "TMDB By Language",
+        "type": "movie",
+        "source": "tmdb",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "tmdb.language",
+        "name": "TMDB By Language",
+        "type": "series",
+        "source": "tmdb",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "tvdb.trending",
+        "name": "TVDB Trending",
+        "type": "movie",
+        "source": "tvdb",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "tvdb.trending",
+        "name": "TVDB Trending",
+        "type": "series",
+        "source": "tvdb",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "tvdb.genres",
+        "name": "TVDB Genres",
+        "type": "movie",
+        "source": "tvdb",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "tvdb.genres",
+        "name": "TVDB Genres",
+        "type": "series",
+        "source": "tvdb",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "tvdb.collections",
+        "name": "TVDB Collections",
+        "type": "movie",
+        "source": "tvdb",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "tvmaze.schedule",
+        "name": "TVmaze Daily Schedule",
+        "type": "series",
+        "source": "tvmaze",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "mal.airing",
+        "name": "MAL Airing Now",
+        "type": "anime",
+        "source": "mal",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "mal.upcoming",
+        "name": "MAL Upcoming Season",
+        "type": "anime",
+        "source": "mal",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "mal.schedule",
+        "name": "MAL Airing Schedule",
+        "type": "anime",
+        "source": "mal",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "mal.seasons",
+        "name": "MAL Seasons",
+        "type": "anime",
+        "source": "mal",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "mal.80sDecade",
+        "name": "MAL Best of 80s",
+        "type": "anime",
+        "source": "mal",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "mal.90sDecade",
+        "name": "MAL Best of 90s",
+        "type": "anime",
+        "source": "mal",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "mal.00sDecade",
+        "name": "MAL Best of 2000s",
+        "type": "anime",
+        "source": "mal",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "mal.10sDecade",
+        "name": "MAL Best of 2010s",
+        "type": "anime",
+        "source": "mal",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "mal.20sDecade",
+        "name": "MAL Best of 2020s",
+        "type": "anime",
+        "source": "mal",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "mal.genres",
+        "name": "MAL Genres",
+        "type": "anime",
+        "source": "mal",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "mal.studios",
+        "name": "MAL By Studio",
+        "type": "anime",
+        "source": "mal",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "mal.top_movies",
+        "name": "MAL Top Movies",
+        "type": "anime",
+        "source": "mal",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "mal.top_series",
+        "name": "MAL Top Series",
+        "type": "anime",
+        "source": "mal",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "mal.most_favorites",
+        "name": "MAL Most Favorites",
+        "type": "anime",
+        "source": "mal",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "mal.most_popular",
+        "name": "MAL Most Popular",
+        "type": "anime",
+        "source": "mal",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "mal.top_anime",
+        "name": "MAL Top Anime",
+        "type": "anime",
+        "source": "mal",
+        "enabled": false,
+        "showInHome": false,
+        "randomizePerPage": false,
+        "enableRatingPosters": true
+      },
+      {
+        "id": "mdblist.3022",
+        "type": "movie",
+        "name": "Universo Marvel",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 81,
+          "author": "kingkearney",
+          "url": "https://mdblist.com/lists/kingkearney/marvel-universe",
+          "mediatype": "movie"
+        },
+        "displayType": "Filmes"
+      },
+      {
+        "id": "mdblist.3021",
+        "type": "movie",
+        "name": "Universo DC",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 89,
+          "author": "kingkearney",
+          "url": "https://mdblist.com/lists/kingkearney/dc-universe",
+          "mediatype": "movie"
+        },
+        "displayType": "Filmes"
+      },
+      {
+        "id": "mdblist.2636",
+        "type": "movie",
+        "name": "Pixar",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 41,
+          "author": "linaspurinis",
+          "url": "https://mdblist.com/lists/linaspurinis/pixar-movies",
+          "mediatype": "movie"
+        },
+        "displayType": "Filmes"
+      },
+      {
+        "id": "mdblist.12833",
+        "type": "movie",
+        "name": "DreamWorks",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 51,
+          "author": "mmagtech",
+          "url": "https://mdblist.com/lists/mmagtech/dreamworks-animation",
+          "mediatype": "movie"
+        },
+        "displayType": "Filmes"
+      },
+      {
+        "id": "mdblist.159296",
+        "type": "all",
+        "name": "Universo Harry Potter",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 11,
+          "author": "demonfox",
+          "url": "https://mdblist.com/lists/demonfox/harry-potter-universe"
+        },
+        "displayType": "All"
+      },
+      {
+        "id": "mdblist.155432",
+        "type": "all",
+        "name": "Star Wars",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 29,
+          "author": "jxduffy",
+          "url": "https://mdblist.com/lists/jxduffy/star-wars-chronological-order"
+        },
+        "displayType": "All"
+      },
+      {
+        "id": "mdblist.31163",
+        "type": "series",
+        "name": "Cartoon Network",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 250,
+          "author": "techtitus",
+          "url": "https://mdblist.com/lists/techtitus/cartoon-network",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.168244",
+        "type": "movie",
+        "name": "Nickelodeon",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 157,
+          "author": "wante",
+          "url": "https://mdblist.com/lists/wante/nickelodeon",
+          "mediatype": "movie"
+        },
+        "displayType": "Filmes"
+      },
+      {
+        "id": "mdblist.168245",
+        "type": "series",
+        "name": "Nickelodeon",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 194,
+          "author": "wante",
+          "url": "https://mdblist.com/lists/wante/nickelodeon",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.3082",
+        "type": "series",
+        "name": "Netflix",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "tmdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 300,
+          "author": "garycrawfordgc",
+          "url": "https://mdblist.com/lists/garycrawfordgc/netflix-shows",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.3093",
+        "type": "movie",
+        "name": "Netflix",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "tmdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 200,
+          "author": "garycrawfordgc",
+          "url": "https://mdblist.com/lists/garycrawfordgc/netflix-movies",
+          "mediatype": "movie"
+        },
+        "displayType": "Filmes"
+      },
+      {
+        "id": "mdblist.3088",
+        "type": "series",
+        "name": "Amazon Prime",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "tmdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 300,
+          "author": "garycrawfordgc",
+          "url": "https://mdblist.com/lists/garycrawfordgc/amazon-prime-shows",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.3094",
+        "type": "movie",
+        "name": "Amazon Prime",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "tmdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 200,
+          "author": "garycrawfordgc",
+          "url": "https://mdblist.com/lists/garycrawfordgc/amazon-prime-movies",
+          "mediatype": "movie"
+        },
+        "displayType": "Filmes"
+      },
+      {
+        "id": "mdblist.3090",
+        "type": "series",
+        "name": "Disney+",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "tmdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 300,
+          "author": "garycrawfordgc",
+          "url": "https://mdblist.com/lists/garycrawfordgc/disney-shows",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.3095",
+        "type": "movie",
+        "name": "Disney+",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "tmdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 200,
+          "author": "garycrawfordgc",
+          "url": "https://mdblist.com/lists/garycrawfordgc/disney-movies",
+          "mediatype": "movie"
+        },
+        "displayType": "Filmes"
+      },
+      {
+        "id": "mdblist.5975",
+        "type": "series",
+        "name": "HBO Max",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "tmdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 510,
+          "author": "rafster",
+          "url": "https://mdblist.com/lists/rafster/hbo-max-shows",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.137619",
+        "type": "movie",
+        "name": "HBO Max",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "tmdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 1140,
+          "author": "seanpharris",
+          "url": "https://mdblist.com/lists/seanpharris/hbo-max-movies",
+          "mediatype": "movie"
+        },
+        "displayType": "Filmes"
+      },
+      {
+        "id": "mdblist.32020",
+        "type": "series",
+        "name": "Paramount+",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "tmdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 173,
+          "author": "adamosborne01",
+          "url": "https://mdblist.com/lists/adamosborne01/paramount",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.88330",
+        "type": "movie",
+        "name": "Paramount+",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "tmdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 200,
+          "author": "tvgeniekodi",
+          "url": "https://mdblist.com/lists/tvgeniekodi/paramount-movies",
+          "mediatype": "movie"
+        },
+        "displayType": "Filmes"
+      },
+      {
+        "id": "mdblist.7995",
+        "type": "series",
+        "name": "Apple TV+",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "tmdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 207,
+          "author": "adamosborne01",
+          "url": "https://mdblist.com/lists/adamosborne01/apple-tv",
+          "mediatype": "show"
+        },
+        "displayType": "Séries"
+      },
+      {
+        "id": "mdblist.13935",
+        "type": "movie",
+        "name": "Apple TV+",
+        "enabled": true,
+        "showInHome": false,
+        "source": "mdblist",
+        "sort": "tmdbpopular",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 114,
+          "author": "slimshizn",
+          "url": "https://mdblist.com/lists/slimshizn/apple-tv-movies",
+          "mediatype": "movie"
+        },
+        "displayType": "Filmes"
+      }
+    ],
+    "search": {
+      "enabled": true,
+      "ai_enabled": true,
+      "ai_provider": "gemini",
+      "ai_model": "gemini-2.5-flash-lite",
+      "providers": {
+        "movie": "tmdb.search",
+        "series": "tvdb.search",
+        "anime_movie": "mal.search.movie",
+        "anime_series": "mal.search.series",
+        "people_search_movie": "tmdb.people.search",
+        "people_search_series": "tmdb.people.search"
+      },
+      "engineEnabled": {
+        "tmdb.search": true,
+        "tvdb.search": true,
+        "tvdb.collections.search": true,
+        "tvmaze.search": true,
+        "trakt.search": true,
+        "mdblist.search": true,
+        "people_search_movie": true,
+        "people_search_series": true,
+        "mal.search.movie": true,
+        "mal.search.series": true,
+        "gemini.search": true
+      },
+      "searchNames": {},
+      "searchOrder": [
+        "gemini.search",
+        "anime_series",
+        "anime_movie",
+        "movie",
+        "series",
+        "tvdb.collections.search",
+        "people_search_movie",
+        "people_search_series"
+      ]
+    },
+    "streaming": [
+      "cru",
+      "crc"
+    ],
+    "customPosterUrlPattern": "https://btttr.cc/poster/imdb/poster-default/{imdb_id}.jpg?lang=pt-BR",
+    "customBackgroundUrlPattern": "",
+    "customLogoUrlPattern": "",
+    "customThumbnailUrlPattern": "",
+    "lastModified": 1778334506339,
+    "configVersion": 1778334506340,
+    "configHash": "0aeaa26e018a1968",
+    "exclusionGenres": "ecchi",
+    "exclusionKeywords": "naked, sex, porn, adult, ecchi",
+    "regexExclusionFilter": "naked|sex|porn|adult|ecchi"
+  },
+  "metadata": {
+    "apiKeysExcluded": true,
+    "totalCatalogs": 217,
+    "enabledCatalogs": 119
+  }
+}
