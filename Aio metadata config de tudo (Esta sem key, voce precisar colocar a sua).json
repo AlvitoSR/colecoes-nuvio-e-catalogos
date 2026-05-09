@@ -1,6 +1,6 @@
 {
   "version": "2.2.2",
-  "exportedAt": "2026-05-09T16:38:58.087Z",
+  "exportedAt": "2026-05-09T19:26:24.331Z",
   "config": {
     "language": "pt-BR",
     "addonName": "",
@@ -100,7 +100,7 @@
           "url": "https://mdblist.com/lists/kidou14/top-10-anime-of-the-week",
           "mediatype": "show"
         },
-        "displayType": "Séries"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.86214",
@@ -120,7 +120,7 @@
           "url": "https://mdblist.com/lists/moafew21/latest-anime",
           "mediatype": "show"
         },
-        "displayType": "Séries"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.47642",
@@ -140,7 +140,7 @@
           "url": "https://mdblist.com/lists/skack97/current-anime-season",
           "mediatype": "show"
         },
-        "displayType": "Séries"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.14678",
@@ -160,7 +160,7 @@
           "mediatype": "movie",
           "author": "adamosborne01"
         },
-        "displayType": "Filmes"
+        "displayType": "movie"
       },
       {
         "id": "mdblist.78821",
@@ -180,7 +180,7 @@
           "mediatype": "show",
           "author": "adamosborne01"
         },
-        "displayType": "Séries"
+        "displayType": "Series"
       },
       {
         "id": "mdblist.86934",
@@ -200,7 +200,7 @@
           "mediatype": "movie",
           "author": "snoak"
         },
-        "displayType": "Filmes"
+        "displayType": "movie"
       },
       {
         "id": "mdblist.149750",
@@ -220,7 +220,7 @@
           "mediatype": "movie",
           "author": "matheus_carinio"
         },
-        "displayType": "Filmes",
+        "displayType": "movie",
         "randomizePerPage": true
       },
       {
@@ -261,7 +261,7 @@
           "url": "https://mdblist.com/lists/linvo/top-of-all-time-anime-series",
           "mediatype": "show"
         },
-        "displayType": "Séries"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.13576",
@@ -281,7 +281,7 @@
           "url": "https://mdblist.com/lists/linvo/top-of-all-time-anime-movies",
           "mediatype": "movie"
         },
-        "displayType": "Filmes"
+        "displayType": "anime Filme"
       },
       {
         "id": "mdblist.13542",
@@ -301,7 +301,7 @@
           "url": "https://mdblist.com/lists/linvo/anime-series-popular",
           "mediatype": "show"
         },
-        "displayType": "Séries"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.13541",
@@ -321,7 +321,7 @@
           "url": "https://mdblist.com/lists/linvo/anime-movies-popular",
           "mediatype": "movie"
         },
-        "displayType": "Filmes"
+        "displayType": "anime Filme"
       },
       {
         "id": "mdblist.2472",
@@ -341,7 +341,7 @@
           "url": "https://mdblist.com/lists/iamscallywag/latest-anime",
           "mediatype": "show"
         },
-        "displayType": "Séries"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.103378",
@@ -361,7 +361,7 @@
           "url": "https://mdblist.com/lists/jarvis-15468249/a-1-pictures-shows",
           "mediatype": "show"
         },
-        "displayType": "series"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.103384",
@@ -381,7 +381,7 @@
           "url": "https://mdblist.com/lists/chrismilton605-gmail-com/pierrot-animation-shows",
           "mediatype": "show"
         },
-        "displayType": "series"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.103385",
@@ -401,7 +401,7 @@
           "url": "https://mdblist.com/lists/chrismilton605-gmail-com/madhouse-shows",
           "mediatype": "show"
         },
-        "displayType": "series"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.103386",
@@ -421,7 +421,7 @@
           "url": "https://mdblist.com/lists/chrismilton605-gmail-com/mappa-shows",
           "mediatype": "show"
         },
-        "displayType": "series"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.103387",
@@ -441,7 +441,7 @@
           "url": "https://mdblist.com/lists/chrismilton605-gmail-com/production-ig-shows",
           "mediatype": "show"
         },
-        "displayType": "series"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.103383",
@@ -461,7 +461,7 @@
           "url": "https://mdblist.com/lists/xpertplayer123/kyoto-animation-shows",
           "mediatype": "show"
         },
-        "displayType": "series"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.103382",
@@ -481,7 +481,7 @@
           "url": "https://mdblist.com/lists/xpertplayer123/ufotable-shows",
           "mediatype": "show"
         },
-        "displayType": "series"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.103381",
@@ -501,7 +501,7 @@
           "url": "https://mdblist.com/lists/xpertplayer123/toei-animation-shows",
           "mediatype": "show"
         },
-        "displayType": "series"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.103388",
@@ -521,12 +521,12 @@
           "url": "https://mdblist.com/lists/xpert192938/bones-shows",
           "mediatype": "show"
         },
-        "displayType": "series"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.82978",
         "type": "series",
-        "name": "A Venir",
+        "name": "A lançar",
         "enabled": true,
         "showInHome": false,
         "source": "mdblist",
@@ -541,7 +541,7 @@
           "url": "https://mdblist.com/lists/mkswifty/upcoming-anime-mkb",
           "mediatype": "show"
         },
-        "displayType": "series"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.6871",
@@ -561,7 +561,7 @@
           "url": "https://mdblist.com/lists/denes97/anime-tv-list-7f3ee625-b297-4626-bfaa-db2ee2dbbc9f",
           "mediatype": "show"
         },
-        "displayType": "Séries"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.6870",
@@ -581,7 +581,7 @@
           "url": "https://mdblist.com/lists/denes97/anime-tv-list",
           "mediatype": "show"
         },
-        "displayType": "Séries"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.8532",
@@ -601,7 +601,7 @@
           "url": "https://mdblist.com/lists/andrewkennedy/top-rated-anime",
           "mediatype": "show"
         },
-        "displayType": "Séries"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.6928",
@@ -621,7 +621,7 @@
           "url": "https://mdblist.com/lists/breon64/popular-anime",
           "mediatype": "show"
         },
-        "displayType": "Séries"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.43303",
@@ -641,7 +641,7 @@
           "url": "https://mdblist.com/lists/latestanimereleaselist/latest-anime-releases",
           "mediatype": "show"
         },
-        "displayType": "Séries"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.95975",
@@ -661,7 +661,7 @@
           "url": "https://mdblist.com/lists/sylgretor/list-of-all-anime-series-tagged-isekai",
           "mediatype": "show"
         },
-        "displayType": "Séries"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.158519",
@@ -681,27 +681,7 @@
           "url": "https://mdblist.com/lists/axee4/anime-fall",
           "mediatype": "show"
         },
-        "displayType": "Séries"
-      },
-      {
-        "id": "mdblist.139868",
-        "type": "series",
-        "name": "Isekai",
-        "enabled": true,
-        "showInHome": false,
-        "source": "mdblist",
-        "sort": "released",
-        "order": "asc",
-        "cacheTTL": 86400,
-        "genreSelection": "anime",
-        "enableRatingPosters": true,
-        "metadata": {
-          "itemCount": 199,
-          "author": "axee4",
-          "url": "https://mdblist.com/lists/axee4/anime-isekai",
-          "mediatype": "show"
-        },
-        "displayType": "Séries"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.158516",
@@ -721,7 +701,7 @@
           "url": "https://mdblist.com/lists/axee4/anime-seinen",
           "mediatype": "show"
         },
-        "displayType": "Séries"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.158514",
@@ -741,7 +721,7 @@
           "url": "https://mdblist.com/lists/axee4/anime-hounen",
           "mediatype": "show"
         },
-        "displayType": "Séries"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.158518",
@@ -761,7 +741,7 @@
           "url": "https://mdblist.com/lists/axee4/anime-summer",
           "mediatype": "show"
         },
-        "displayType": "Séries"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.139688",
@@ -781,7 +761,7 @@
           "url": "https://mdblist.com/lists/axee4/anime-spring-0i3k8rc5cx",
           "mediatype": "show"
         },
-        "displayType": "Séries"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.158702",
@@ -801,7 +781,7 @@
           "url": "https://mdblist.com/lists/axee4/anime-upcoming",
           "mediatype": "show"
         },
-        "displayType": "Séries"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.158520",
@@ -821,25 +801,7 @@
           "url": "https://mdblist.com/lists/axee4/anime-winter",
           "mediatype": "show"
         },
-        "displayType": "Séries"
-      },
-      {
-        "id": "mdblist.148240",
-        "type": "all",
-        "name": "Yuri",
-        "enabled": true,
-        "showInHome": false,
-        "source": "mdblist",
-        "sort": "default",
-        "order": "asc",
-        "cacheTTL": 86400,
-        "genreSelection": "anime",
-        "enableRatingPosters": true,
-        "metadata": {
-          "itemCount": 152,
-          "author": "yuyach",
-          "url": "https://mdblist.com/lists/yuyach/yuri"
-        }
+        "displayType": "anime"
       },
       {
         "id": "mdblist.10296",
@@ -859,7 +821,7 @@
           "url": "https://mdblist.com/lists/mwillacey71/mecha-anime-6d0073cd-e875-499e-bbf1-3196005cc323",
           "mediatype": "show"
         },
-        "displayType": "Séries"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.98352",
@@ -879,7 +841,7 @@
           "url": "https://mdblist.com/lists/mwillacey71/mecha-anime-6d0073cd-e875-499e-bbf1-3196005cc323",
           "mediatype": "movie"
         },
-        "displayType": "Filmes"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.79491",
@@ -899,12 +861,12 @@
           "url": "https://mdblist.com/lists/v4v4i/slice-of-life-mostly-shojo",
           "mediatype": "show"
         },
-        "displayType": "Séries"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.29912",
         "type": "series",
-        "name": "Crunchy",
+        "name": "Crunchyroll",
         "enabled": true,
         "showInHome": false,
         "source": "mdblist",
@@ -919,12 +881,12 @@
           "url": "https://mdblist.com/lists/jukebox8786/crunchyroll-anime",
           "mediatype": "show"
         },
-        "displayType": "Séries"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.29914",
         "type": "series",
-        "name": "Anime Digital Network",
+        "name": "+ animes",
         "enabled": true,
         "showInHome": false,
         "source": "mdblist",
@@ -939,7 +901,7 @@
           "url": "https://mdblist.com/lists/jukebox8786/anime-digital-network-anime",
           "mediatype": "show"
         },
-        "displayType": "Séries"
+        "displayType": "anime"
       },
       {
         "id": "streaming.cru",
@@ -985,7 +947,7 @@
           "url": "https://mdblist.com/lists/alindoggmail/donghua-alin",
           "mediatype": "show"
         },
-        "displayType": "Séries"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.73330",
@@ -1005,7 +967,7 @@
           "url": "https://mdblist.com/lists/alindoggmail/donghua-movies",
           "mediatype": "movie"
         },
-        "displayType": "Filmes"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.25240",
@@ -1025,7 +987,7 @@
           "url": "https://mdblist.com/lists/pheerlessliter/anime-2020s",
           "mediatype": "show"
         },
-        "displayType": "Séries"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.25241",
@@ -1045,7 +1007,7 @@
           "url": "https://mdblist.com/lists/pheerlessliter/anime-2010s",
           "mediatype": "show"
         },
-        "displayType": "Séries"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.25242",
@@ -1065,7 +1027,7 @@
           "url": "https://mdblist.com/lists/pheerlessliter/anime-2000s",
           "mediatype": "show"
         },
-        "displayType": "Séries"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.25243",
@@ -1085,7 +1047,7 @@
           "url": "https://mdblist.com/lists/pheerlessliter/anime-1990s",
           "mediatype": "show"
         },
-        "displayType": "Séries"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.25244",
@@ -1105,7 +1067,7 @@
           "url": "https://mdblist.com/lists/pheerlessliter/anime-1980s",
           "mediatype": "show"
         },
-        "displayType": "Séries"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.25245",
@@ -1125,7 +1087,7 @@
           "url": "https://mdblist.com/lists/pheerlessliter/anime-1970s",
           "mediatype": "show"
         },
-        "displayType": "Séries"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.25246",
@@ -1145,32 +1107,12 @@
           "url": "https://mdblist.com/lists/pheerlessliter/anime-1960s",
           "mediatype": "show"
         },
-        "displayType": "Séries"
-      },
-      {
-        "id": "mdblist.24814",
-        "type": "series",
-        "name": "Dubbed Only",
-        "enabled": false,
-        "showInHome": false,
-        "source": "mdblist",
-        "sort": "default",
-        "order": "asc",
-        "cacheTTL": 86400,
-        "genreSelection": "standard",
-        "enableRatingPosters": true,
-        "metadata": {
-          "itemCount": 234,
-          "author": "sysops",
-          "url": "https://mdblist.com/lists/sysops/anime-dubbed-only",
-          "mediatype": "show"
-        },
-        "displayType": "series"
+        "displayType": "anime"
       },
       {
         "id": "mdblist.31268",
         "type": "series",
-        "name": "Anime Seasonal",
+        "name": "anime",
         "enabled": true,
         "showInHome": false,
         "source": "mdblist",
@@ -1184,7 +1126,8 @@
           "author": "imalpha11",
           "url": "https://mdblist.com/lists/imalpha11/anime-seasonal",
           "mediatype": "show"
-        }
+        },
+        "displayType": "anime"
       },
       {
         "id": "mdblist.149765",
@@ -1761,7 +1704,7 @@
           "mediatype": "show",
           "author": "mxtrakttv"
         },
-        "displayType": "series"
+        "displayType": "Series"
       },
       {
         "id": "mdblist.125891",
@@ -3051,7 +2994,7 @@
           "url": "https://mdblist.com/lists/kingkearney/marvel-universe",
           "mediatype": "movie"
         },
-        "displayType": "Filmes"
+        "displayType": "Super-Herói"
       },
       {
         "id": "mdblist.3021",
@@ -3071,7 +3014,7 @@
           "url": "https://mdblist.com/lists/kingkearney/dc-universe",
           "mediatype": "movie"
         },
-        "displayType": "Filmes"
+        "displayType": "Super-Herói"
       },
       {
         "id": "mdblist.2636",
@@ -3091,7 +3034,7 @@
           "url": "https://mdblist.com/lists/linaspurinis/pixar-movies",
           "mediatype": "movie"
         },
-        "displayType": "Filmes"
+        "displayType": "Animação"
       },
       {
         "id": "mdblist.12833",
@@ -3111,7 +3054,7 @@
           "url": "https://mdblist.com/lists/mmagtech/dreamworks-animation",
           "mediatype": "movie"
         },
-        "displayType": "Filmes"
+        "displayType": "Animação"
       },
       {
         "id": "mdblist.159296",
@@ -3130,7 +3073,7 @@
           "author": "demonfox",
           "url": "https://mdblist.com/lists/demonfox/harry-potter-universe"
         },
-        "displayType": "All"
+        "displayType": "movie"
       },
       {
         "id": "mdblist.155432",
@@ -3149,7 +3092,7 @@
           "author": "jxduffy",
           "url": "https://mdblist.com/lists/jxduffy/star-wars-chronological-order"
         },
-        "displayType": "All"
+        "displayType": "movie"
       },
       {
         "id": "mdblist.31163",
@@ -3169,7 +3112,7 @@
           "url": "https://mdblist.com/lists/techtitus/cartoon-network",
           "mediatype": "show"
         },
-        "displayType": "Séries"
+        "displayType": "Animação"
       },
       {
         "id": "mdblist.168244",
@@ -3189,7 +3132,7 @@
           "url": "https://mdblist.com/lists/wante/nickelodeon",
           "mediatype": "movie"
         },
-        "displayType": "Filmes"
+        "displayType": "Animação"
       },
       {
         "id": "mdblist.168245",
@@ -3209,7 +3152,7 @@
           "url": "https://mdblist.com/lists/wante/nickelodeon",
           "mediatype": "show"
         },
-        "displayType": "Séries"
+        "displayType": "Animação"
       },
       {
         "id": "mdblist.3082",
@@ -3229,7 +3172,7 @@
           "url": "https://mdblist.com/lists/garycrawfordgc/netflix-shows",
           "mediatype": "show"
         },
-        "displayType": "Séries"
+        "displayType": "Series"
       },
       {
         "id": "mdblist.3093",
@@ -3249,7 +3192,7 @@
           "url": "https://mdblist.com/lists/garycrawfordgc/netflix-movies",
           "mediatype": "movie"
         },
-        "displayType": "Filmes"
+        "displayType": "movie"
       },
       {
         "id": "mdblist.3088",
@@ -3269,7 +3212,7 @@
           "url": "https://mdblist.com/lists/garycrawfordgc/amazon-prime-shows",
           "mediatype": "show"
         },
-        "displayType": "Séries"
+        "displayType": "Series"
       },
       {
         "id": "mdblist.3094",
@@ -3289,7 +3232,7 @@
           "url": "https://mdblist.com/lists/garycrawfordgc/amazon-prime-movies",
           "mediatype": "movie"
         },
-        "displayType": "Filmes"
+        "displayType": "movie"
       },
       {
         "id": "mdblist.3090",
@@ -3309,7 +3252,7 @@
           "url": "https://mdblist.com/lists/garycrawfordgc/disney-shows",
           "mediatype": "show"
         },
-        "displayType": "Séries"
+        "displayType": "Series"
       },
       {
         "id": "mdblist.3095",
@@ -3329,7 +3272,7 @@
           "url": "https://mdblist.com/lists/garycrawfordgc/disney-movies",
           "mediatype": "movie"
         },
-        "displayType": "Filmes"
+        "displayType": "movie"
       },
       {
         "id": "mdblist.5975",
@@ -3349,7 +3292,7 @@
           "url": "https://mdblist.com/lists/rafster/hbo-max-shows",
           "mediatype": "show"
         },
-        "displayType": "Séries"
+        "displayType": "Series"
       },
       {
         "id": "mdblist.137619",
@@ -3369,7 +3312,7 @@
           "url": "https://mdblist.com/lists/seanpharris/hbo-max-movies",
           "mediatype": "movie"
         },
-        "displayType": "Filmes"
+        "displayType": "movie"
       },
       {
         "id": "mdblist.32020",
@@ -3389,7 +3332,7 @@
           "url": "https://mdblist.com/lists/adamosborne01/paramount",
           "mediatype": "show"
         },
-        "displayType": "Séries"
+        "displayType": "Series"
       },
       {
         "id": "mdblist.88330",
@@ -3409,7 +3352,7 @@
           "url": "https://mdblist.com/lists/tvgeniekodi/paramount-movies",
           "mediatype": "movie"
         },
-        "displayType": "Filmes"
+        "displayType": "movie"
       },
       {
         "id": "mdblist.7995",
@@ -3429,7 +3372,7 @@
           "url": "https://mdblist.com/lists/adamosborne01/apple-tv",
           "mediatype": "show"
         },
-        "displayType": "Séries"
+        "displayType": "Series"
       },
       {
         "id": "mdblist.13935",
@@ -3449,7 +3392,7 @@
           "url": "https://mdblist.com/lists/slimshizn/apple-tv-movies",
           "mediatype": "movie"
         },
-        "displayType": "Filmes"
+        "displayType": "movie"
       }
     ],
     "search": {
@@ -3498,16 +3441,16 @@
     "customBackgroundUrlPattern": "",
     "customLogoUrlPattern": "",
     "customThumbnailUrlPattern": "",
-    "lastModified": 1778334506339,
-    "configVersion": 1778334506340,
-    "configHash": "0aeaa26e018a1968",
+    "lastModified": 1778347746268,
+    "configVersion": 1778347746269,
+    "configHash": "96d20e6fd0261151",
     "exclusionGenres": "ecchi",
     "exclusionKeywords": "naked, sex, porn, adult, ecchi",
     "regexExclusionFilter": "naked|sex|porn|adult|ecchi"
   },
   "metadata": {
     "apiKeysExcluded": true,
-    "totalCatalogs": 217,
-    "enabledCatalogs": 119
+    "totalCatalogs": 214,
+    "enabledCatalogs": 117
   }
 }
