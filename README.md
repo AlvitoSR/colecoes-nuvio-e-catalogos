@@ -6,10 +6,19 @@ Tudo foi feito com base no meu gosto — mas você pode editar como quiser.
 
 
 
-Utilizei algumas imagens e config de outras pessoas.
+Utilizei algumas imagens,ideias e config de outras pessoas.
 
 Creditos: https://www.reddit.com/r/Nuvio/comments/1t7rjo5/sharing_my_homemade_ptbr_nuvio_collections_setup/
 https://www.reddit.com/r/Nuvio/comments/1t2oa8k/ultimate_anime_nuvio_build_dynamic_mdblist_setup/
+
+
+
+
+
+Fotos que eu mesmo editei, pegando como ideia de outras coleções.
+https://postimg.cc/gallery/KKQVZgB
+
+
 
 ---
 
